@@ -100,8 +100,6 @@ class AddFilm(QMainWindow):
             self.close()
 
 
-
-
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     form = MyWidget()
